@@ -1,0 +1,6 @@
+Common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.o: \
+ D:/Diploma\ Advanced332023/STM32CUBEWORKSPACE/Common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.c \
+ D:/Diploma\ Advanced332023/STM32CUBEWORKSPACE/Common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT.h \
+ D:/Diploma\ Advanced332023/STM32CUBEWORKSPACE/Common/ThirdParty/SEGGER/Config/SEGGER_RTT_Conf.h
+D:/Diploma\ Advanced332023/STM32CUBEWORKSPACE/Common/ThirdParty/SEGGER/SEGGER/SEGGER_RTT.h:
+D:/Diploma\ Advanced332023/STM32CUBEWORKSPACE/Common/ThirdParty/SEGGER/Config/SEGGER_RTT_Conf.h:
